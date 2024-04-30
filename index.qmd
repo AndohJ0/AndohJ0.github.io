@@ -1,0 +1,18 @@
+---
+title: "About"
+image: profile_pic.JPG
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/_jelphis
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/john-andoh
+    - icon: github
+      text: Github
+      href: https://github.com/AndohJ0
+---
+
+John Andoh is a PhD student at the University of Bern, specializing in infectious disease modeling and public health. His work at the Institute of Social and Preventive Medicine (ISPM) reflects his commitment to advancing health sciences through rigorous research in infectious diseases epidemiology, effectiveness, and cost-effectiveness analysis.

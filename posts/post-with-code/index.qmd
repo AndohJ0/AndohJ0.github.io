@@ -1,0 +1,9 @@
+---
+title: "Analysis"
+author: "John Andoh"
+date: "2024-04-30"
+categories: [R, analysis]
+image: "image.jpg"
+---
+
+See my Github!

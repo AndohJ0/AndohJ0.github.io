@@ -1,0 +1,2 @@
+<!--- ![](Academic_CV_0424.pdf){width=98% height=1000px}  #not adjusted for phones-->
+<iframe src="Academic_CV_0424.pdf" height=100% width=100%> <!---embedding for phones-->
