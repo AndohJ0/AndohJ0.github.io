@@ -15,4 +15,4 @@ about:
       href: https://github.com/AndohJ0
 ---
 
-John Andoh is a PhD student at the University of Bern, specializing in infectious disease modeling and public health. His work at the Institute of Social and Preventive Medicine (ISPM) reflects his commitment to advancing health sciences through rigorous research in infectious diseases epidemiology, effectiveness, and cost-effectiveness analysis.
+John Andoh is a PhD student at the University of Bern, specializing in infectious disease modeling and public health. His work at the Institute of Social and Preventive Medicine (ISPM) reflects his commitment to advancing health sciences through rigorous research in infectious diseases epidemiology, and in the effectiveness or cost-effectiveness of prevention policies.
